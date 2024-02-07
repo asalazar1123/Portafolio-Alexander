@@ -103,7 +103,7 @@ const index = () => (
                     <div className="card-body">
                       <h3>{name}</h3>
                       <p>{description}</p>
-                      <a href="#!">Ver Proyecto</a>
+                      <a href="/">Ver Proyecto</a>
                     </div>
                   </div>
                 </div>
