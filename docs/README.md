@@ -6,7 +6,10 @@ NodeJS - Javascript - Bootswatch - Bootstrap - React - Node
 
 ## Capturas de pantalla 📷
 
-![GitHub](./public/captura.jpg)
+![GitHub](../public/captura.jpg)
+
+## Demo
+![Portafolio](https://asalazar1123.github.io/Portafolio-Alexander/)
 
 ## Contacto 
 Alexander Salazar - salazaralexander2@gmail.com  📥
