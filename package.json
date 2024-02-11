@@ -7,7 +7,6 @@
     "dev": "next"
   },
   "keywords": [],
-  "type": "module",
   "author": "",
   "license": "ISC",
   "dependencies": {
