@@ -1,3 +1,3 @@
 import index from './pages/index.js'
 
-index.index();
+index();
