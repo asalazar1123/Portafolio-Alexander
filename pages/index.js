@@ -98,7 +98,7 @@ const index = () => (
                 <div className="col-md-4 p-2" key={index}>
                   <div className="card h-100">
                     <div className="overflow">
-                      <img src={`/${image}`} alt="" className="card-img-top" />
+                      <img src={`/nextjs-github-pages/${image}`} alt="" className="card-img-top" />
                     </div>
                     <div className="card-body">
                       <h3>{name}</h3>
